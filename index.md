@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/LUOJIN243638/luojin243638.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+#### 姓名: 罗锦
+#### 学历： 本科
+#### 邮箱: luojin243638@gmail.com / luojin243638@163.com
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
+**韩国首尔科技大学 | 信息通信学院 | 计算机科学专业 + 英语副专业**   
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目经历
+**Hand in Hand 二手网站开发** 小组 2020-03 到 2020-06
+- 项目描述：是一个为留学生提供的二手物品交易平台，解决大量物品处理，资源浪费问题
+- 责任描述： 
+    1. 使用 web 前端技术完成页面制作
+    2. 毕业发表 ppt 制作
+- 项目总结：获得成绩 A+，获得能力沟通能力，协作能力，主动解决问题能力
 
-```markdown
-Syntax highlighted code block
+**电子商务数据库管理系统开发** 小组 2019-03 到 2019-05
+- 项目描述：是一个用户可以进行添加，删除，查找，修改等操作的电子商务数据库管理系统
+- 开发环境： Oracle, Microsoft Visio, sqldeveloper
+- 责任描述：
+    1. 了解电子商务在中韩两国发展状况，分析用户需求
+    2. 制作流程图，设计（E-R 模型）实体关系模型，数据表
+    3. 运用 oracle, SQL 命令工具，简单的 C 语言，Java 技术实现对数据库的创建，对数据库增删查改
+- 项目总结：获得成绩 A，获得自主学习能力，主动解决问题能力
 
-# Header 1
-## Header 2
-### Header 3
+**旅游网页制作** 小组 019-03 到 2019-05
+• 项目描述：是一个不同国家的组员，了解，通过调查和搜集各种旅游信息，了解各国学生的需求
+• 项目责任： 
+      1. 负责整理各旅游网站的资料，作为网页的模板参考
+      2.负责完成从用户需求，网页美观度，网页合理性，问题点与难点四个方面分析，制作发表“旅游网页”PPT
+• 项目总结：获得好评，获得能力 沟通能力，学习能力，协作能力
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 社会经历
+**（韩国）便利店 | 兼职** 2020.05-至今
+- 主要工作：收银，物品整理， 检查货品情况，调整调价商品的价格标识，货物盘点，服务顾客，核对库存等
+- 总结：极大提高了韩语水平，获得了沟通能力，学习能力，独立解决问题和思考能力，和吃苦耐劳的精神
 
-**Bold** and _Italic_ and `Code` text
+**（韩国）教育工作 | 中文家教** 2019.02-至今
+- 主要工作：备课，不同年龄段的学生教中文
+- 总结：了解不同学生之间的性格差异，对课件不断改进，获得了丰富的沟通经验，和较强的表达能力和责任心
 
-[Link](url) and ![Image](src)
-```
+**在校办公室工作 | 兼职生** 2017.03-2019.12
+- 主要工作：文件整理，文件处理，表格制作，接听电话，帮助外国学生解决问题
+- 协助老师们组织教授们的会议工作，负责整理文件
+- 协助学院组织大型的毕业作品展示和校园庆典活动，作品摆放，收尾
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**在韩国奥运圣火传送志愿者 | 现场服务** 2019.10
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LUOJIN243638/luojin243638.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 个人特质 
+1. 语言能力：韩语 TOPIK 5 级  | 英语：交流沟通
+2. 计算机能力：熟练使用 Office 办公软件； Python 基础；web 前端; Nodejs, 数据库设计，PS 操作
+3. 兴趣爱好：书法, 读书, 金融投资, 配音，唱歌
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
