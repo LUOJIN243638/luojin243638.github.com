@@ -1,13 +1,21 @@
 
-### 个人信息
-#### 姓名: 罗锦
-#### 学历： 本科
-#### 邮箱: luojin243638@gmail.com / luojin243638@163.com
-
-
-### 教育背景
-**韩国首尔科技大学 | 信息通信学院 | 计算机科学专业 + 英语副专业**   
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>LUO JIN</h1>
+      <p><b>本科</b></p>
+      <p><b>首尔科技大学 计算机科学专业</b></p>
+      <p><b>邮箱：luojin243638@gmail.com / luojin243638@163.com
+</b></p>
+      <p><b>地址: 首尔市 芦原区 孔陵洞232 首尔科学技术大学 成林宿舍  </b></p>
+    </td>
+    <td width="25%">
+      <img src="/luojin电子照片.jpg" width="100%">      % ![luojin](/luojin电子照片)
+![证件照](/luojin.jpg)
+    </td>
+  </tr>
+</table>
+  
 
 ### 项目经历
 **Hand in Hand 二手网站开发**  2020-03 到 2020-06
