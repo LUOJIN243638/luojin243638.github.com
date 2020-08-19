@@ -10,7 +10,7 @@
       <p><b>地址: 首尔市 芦原区 孔陵洞232 首尔科学技术大学 成林宿舍  </b></p>
     </td>
     <td width="25%">
-      <img src="/luojin电子照片.jpg" width="100%">
+      <img src="/luojin2.jpg" width="100%">
     </td>
   </tr>
 </table>
